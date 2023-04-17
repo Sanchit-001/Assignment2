@@ -1,0 +1,10 @@
+input[type="file"] {
+    border: 1.1px solid #7499ff;
+  }
+  input[type="file"] {
+    background-color: #d5ff2f;
+  }
+  input[type="file"]::before {
+    content: "Select a File";
+  }
+      
